@@ -1,0 +1,127 @@
+{
+  "summary": {
+    "mode": "free",
+    "free_daily": -1,
+    "prem_daily": -1
+  },
+  "why_matters": {
+    "mode": "disabled",
+    "free_daily": 10,
+    "prem_daily": 40
+  },
+  "what_next": {
+    "mode": "disabled",
+    "free_daily": 10,
+    "prem_daily": 40
+  },
+  "intel_report": {
+    "mode": "disabled",
+    "free_daily": 3,
+    "prem_daily": 15
+  },
+  "context": {
+    "mode": "disabled",
+    "free_daily": 5,
+    "prem_daily": 20
+  },
+  "factcheck": {
+    "mode": "disabled",
+    "free_daily": 5,
+    "prem_daily": -1
+  },
+  "deepdive": {
+    "mode": "disabled",
+    "free_daily": 5,
+    "prem_daily": -1
+  },
+  "storyline": {
+    "mode": "disabled",
+    "free_daily": 5,
+    "prem_daily": -1
+  },
+  "entity_track": {
+    "mode": "disabled",
+    "free_daily": 5,
+    "prem_daily": -1
+  },
+  "custom_rss": {
+    "mode": "disabled",
+    "free_daily": 5,
+    "prem_daily": -1
+  },
+  "bookmark": {
+    "mode": "disabled",
+    "free_daily": 5,
+    "prem_daily": -1
+  },
+  "keywords_alert": {
+    "mode": "disabled",
+    "free_daily": 5,
+    "prem_daily": -1
+  },
+  "weekly_report": {
+    "mode": "disabled",
+    "free_daily": 5,
+    "prem_daily": -1
+  },
+  "news_quiz": {
+    "mode": "disabled",
+    "free_daily": 5,
+    "prem_daily": -1
+  },
+  "catchup": {
+    "mode": "disabled",
+    "free_daily": 5,
+    "prem_daily": -1
+  },
+  "compare": {
+    "mode": "disabled",
+    "free_daily": 5,
+    "prem_daily": -1
+  },
+  "audiobriefing": {
+    "mode": "disabled",
+    "free_daily": 5,
+    "prem_daily": -1
+  },
+  "cross_lang": {
+    "mode": "free",
+    "free_daily": -1,
+    "prem_daily": -1
+  },
+  "audio_podcast": {
+    "mode": "disabled",
+    "free_daily": 5,
+    "prem_daily": -1
+  },
+  "sleep_mode": {
+    "mode": "disabled",
+    "free_daily": 5,
+    "prem_daily": -1
+  },
+  "prediction": {
+    "mode": "disabled",
+    "free_daily": 5,
+    "prem_daily": -1
+  },
+  "audio_article": {
+    "mode": "free",
+    "free_daily": -1,
+    "prem_daily": -1
+  },
+  "discuss": {
+    "mode": "disabled",
+    "free_daily": 5,
+    "prem_daily": -1
+  },
+  "ai_duel": {
+    "mode": "disabled",
+    "free_daily": 5,
+    "prem_daily": -1
+  },
+  "news_dna": {
+    "mode": "free",
+    "free_daily": -1,
+    "prem_daily": -1
+  }
+}
